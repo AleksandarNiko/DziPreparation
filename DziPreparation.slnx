@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/2022/">
+    <Project Path="01.zad25Year2022/01.zad25Year2022.csproj" />
+    <Project Path="02.zad26Year2022/02.zad26Year2022.csproj" />
+    <Project Path="03.zad28Year2022/03.zad28Year2022.csproj" />
+  </Folder>
+  <Folder Name="/2023/" />
+  <Folder Name="/2024/" />
+  <Folder Name="/2025/" />
+</Solution>
