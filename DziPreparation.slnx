@@ -3,8 +3,17 @@
     <Project Path="01.zad25Year2022/01.zad25Year2022.csproj" />
     <Project Path="02.zad26Year2022/02.zad26Year2022.csproj" />
     <Project Path="03.zad28Year2022/03.zad28Year2022.csproj" />
+    <Project Path="04.zad25May/04.zad25May.csproj" Id="cf5a81bb-a5ba-44d9-9dc9-70c0dfb2f16a" />
+    <Project Path="05.zad26May/05.zad26May.csproj" Id="7662c641-1fed-4857-8677-f4b80c6a75af" />
+    <Project Path="06.zad28May/06.zad28May.csproj" Id="cbe9d807-b6ca-4e84-9c2e-d0409c12b596" />
   </Folder>
-  <Folder Name="/2023/" />
-  <Folder Name="/2024/" />
+  <Folder Name="/2023/">
+    <Project Path="01.zad25Year2023/01.zad25Year2023.csproj" />
+    <Project Path="02.zad26Year2023/02.zad26Year2023.csproj" />
+    <Project Path="03.zad28Year2023/03.zad28Year2023.csproj" />
+  </Folder>
+  <Folder Name="/2024/">
+    <Project Path="zad28Year2024/zad28Year2024.csproj" Id="93668c13-f721-4b99-b693-1b93d9d70876" />
+  </Folder>
   <Folder Name="/2025/" />
 </Solution>
