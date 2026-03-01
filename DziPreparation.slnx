@@ -16,7 +16,10 @@
     <Project Path="06.zad28Year2023May/06.zad28Year2023May.csproj" Id="7db76cfd-72fb-4479-bb0d-e7a39394ecfd" />
   </Folder>
   <Folder Name="/2024/">
+    <Project Path="zad26Year2024/zad26Year2024.csproj" Id="c55feb6e-ffd5-416d-b027-aca408bd616b" />
+    <Project Path="zad26Year2024May/zad26Year2024May.csproj" Id="ab303723-3fbd-4b33-81d8-485885a51414" />
     <Project Path="zad28Year2024/zad28Year2024.csproj" Id="93668c13-f721-4b99-b693-1b93d9d70876" />
+    <Project Path="zad28Year2024May/zad28Year2024May.csproj" Id="04f76bff-3a2f-49a4-aa11-9eaf5ca87971" />
   </Folder>
   <Folder Name="/2025/" />
 </Solution>
