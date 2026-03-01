@@ -23,6 +23,8 @@
   </Folder>
   <Folder Name="/2025/">
     <Project Path="zad26Year2025August/zad26Year2025August.csproj" Id="44ab4274-e462-4193-bcf9-1c3ac5e09fc1" />
+    <Project Path="zad26Year2025May/zad26Year2025May.csproj" Id="b21618c4-b0af-474e-83d9-fdd048fa38e6" />
     <Project Path="zad28Year2025August/zad28Year2025August.csproj" Id="e9c849c2-ead9-42f9-b70d-4ed3b57f4de9" />
+    <Project Path="zad28Year2025May/zad28Year2025May.csproj" Id="521773ed-4a40-48f2-b612-e7d3d9f505bc" />
   </Folder>
 </Solution>
