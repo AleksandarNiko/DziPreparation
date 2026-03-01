@@ -21,5 +21,8 @@
     <Project Path="zad28Year2024/zad28Year2024.csproj" Id="93668c13-f721-4b99-b693-1b93d9d70876" />
     <Project Path="zad28Year2024May/zad28Year2024May.csproj" Id="04f76bff-3a2f-49a4-aa11-9eaf5ca87971" />
   </Folder>
-  <Folder Name="/2025/" />
+  <Folder Name="/2025/">
+    <Project Path="zad26Year2025August/zad26Year2025August.csproj" Id="44ab4274-e462-4193-bcf9-1c3ac5e09fc1" />
+    <Project Path="zad28Year2025August/zad28Year2025August.csproj" Id="e9c849c2-ead9-42f9-b70d-4ed3b57f4de9" />
+  </Folder>
 </Solution>
