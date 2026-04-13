@@ -16,7 +16,7 @@ Snowfall snowfall = new Snowfall();
 
 string input = "";
 
-while((input=Console.ReadLine()) != "8")
+while((input=Console.ReadLine()) != "EXIT")
 {
     var lineTokens = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
@@ -114,10 +114,6 @@ while((input=Console.ReadLine()) != "8")
             {
                 snowfall.GetSnowflakes();
             }
-            break;
-
-        case "EXIT":
-                return;
             break;
     }
 }

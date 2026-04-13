@@ -27,4 +27,8 @@
     <Project Path="zad28Year2025August/zad28Year2025August.csproj" Id="e9c849c2-ead9-42f9-b70d-4ed3b57f4de9" />
     <Project Path="zad28Year2025May/zad28Year2025May.csproj" Id="521773ed-4a40-48f2-b612-e7d3d9f505bc" />
   </Folder>
+  <Folder Name="/SchoolTasks/">
+    <Project Path="01.Snowfall/01.Snowfall.csproj" Id="5e22732c-bd60-4051-af77-7649260951b8" />
+    <Project Path="02.Lunapark/02.Lunapark.csproj" Id="3c1a1008-eb99-4de5-acc1-aa24c4dabf5f" />
+  </Folder>
 </Solution>
