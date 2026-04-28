@@ -1,0 +1,14 @@
+D:\visual\DziPrep27.04\04.MostSeenNum\bin\Debug\net10.0\04.MostSeenNum.exe
+D:\visual\DziPrep27.04\04.MostSeenNum\bin\Debug\net10.0\04.MostSeenNum.deps.json
+D:\visual\DziPrep27.04\04.MostSeenNum\bin\Debug\net10.0\04.MostSeenNum.runtimeconfig.json
+D:\visual\DziPrep27.04\04.MostSeenNum\bin\Debug\net10.0\04.MostSeenNum.dll
+D:\visual\DziPrep27.04\04.MostSeenNum\bin\Debug\net10.0\04.MostSeenNum.pdb
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.AssemblyInfoInputs.cache
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.AssemblyInfo.cs
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.csproj.CoreCompileInputs.cache
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.dll
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\refint\04.MostSeenNum.dll
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.pdb
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\04.MostSeenNum.genruntimeconfig.cache
+D:\visual\DziPrep27.04\04.MostSeenNum\obj\Debug\net10.0\ref\04.MostSeenNum.dll
