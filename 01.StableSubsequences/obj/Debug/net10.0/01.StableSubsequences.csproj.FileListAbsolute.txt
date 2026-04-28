@@ -1,0 +1,14 @@
+D:\visual\DziPrep27.04\01.StableSubsequences\bin\Debug\net10.0\01.StableSubsequences.exe
+D:\visual\DziPrep27.04\01.StableSubsequences\bin\Debug\net10.0\01.StableSubsequences.deps.json
+D:\visual\DziPrep27.04\01.StableSubsequences\bin\Debug\net10.0\01.StableSubsequences.runtimeconfig.json
+D:\visual\DziPrep27.04\01.StableSubsequences\bin\Debug\net10.0\01.StableSubsequences.dll
+D:\visual\DziPrep27.04\01.StableSubsequences\bin\Debug\net10.0\01.StableSubsequences.pdb
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.AssemblyInfoInputs.cache
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.AssemblyInfo.cs
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.csproj.CoreCompileInputs.cache
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.dll
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\refint\01.StableSubsequences.dll
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.pdb
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\01.StableSubsequences.genruntimeconfig.cache
+D:\visual\DziPrep27.04\01.StableSubsequences\obj\Debug\net10.0\ref\01.StableSubsequences.dll
