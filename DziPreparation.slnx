@@ -33,6 +33,8 @@
     <Project Path="01.GetDayByDate/01.GetDayByDate.csproj" Id="1ce6b089-9a1b-4c1a-bfc7-8c784530e2f5" />
     <Project Path="01.RowOfNums/01.RowOfNums.csproj" Id="9d02c6cf-3c7f-4312-a8e8-54d303c3094f" />
     <Project Path="01.Snowfall/01.Snowfall.csproj" Id="5e22732c-bd60-4051-af77-7649260951b8" />
+    <Project Path="01.SoftwareCatalogue/01.SoftwareCatalogue.csproj" Id="95153ecd-bbeb-4858-934a-a7293741c58f" />
+    <Project Path="01.SportsMarathon/01.SportsMarathon.csproj" Id="bf639a93-71cc-4be8-8c27-5b7acd8e5b9f" />
     <Project Path="02.Dates/02.Dates.csproj" Id="af0c6a27-0aea-49cb-bb52-c4e2f3cb63d7" />
     <Project Path="02.Lunapark/02.Lunapark.csproj" Id="3c1a1008-eb99-4de5-acc1-aa24c4dabf5f" />
     <Project Path="02.WordsAndCommands/02.WordsAndCommands.csproj" Id="7b969584-14de-41ea-b238-40e12785c12f" />
@@ -41,5 +43,6 @@
   </Folder>
   <Folder Name="/SchoolTasks/SecondModulThirdTask/">
     <Project Path="01.PostMarks/01.PostMarks.csproj" Id="dce51e95-e42c-473e-a852-93d24ee5fe9b" />
+    <Project Path="01.VideoGames/01.VideoGames.csproj" Id="0306449b-dabb-405a-826b-676ee7b449af" />
   </Folder>
 </Solution>
